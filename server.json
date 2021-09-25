@@ -1,0 +1,20 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Moda Italiana",
+      "price": "25",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Teste",
+      "price": "120",
+      "description": "DSAD qw qw wrq rwq qwd qwdsadasdasd asd asdasd asd qwdqwd qwdq wd qd ",
+      "available": true,
+      "id": 5
+    }
+  ]
+}
